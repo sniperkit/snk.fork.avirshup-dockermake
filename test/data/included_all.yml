@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 t3:
   FROM: alpine
   build: |

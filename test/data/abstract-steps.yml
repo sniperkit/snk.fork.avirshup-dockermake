@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 abstract:
   build: |
     RUN touch /tmp/a

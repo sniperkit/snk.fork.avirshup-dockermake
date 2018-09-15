@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 - name: clean-build
   service: avirshup/docker-make
   command: sh -c "rm -f /opt/distfiles/*"

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 target:
   description: this build should fail because its 'requires' field is not a list
   FROM: debian:jessie

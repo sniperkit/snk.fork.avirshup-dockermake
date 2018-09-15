@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 simple-target:
   FROM: python:3.6-slim
   build: |

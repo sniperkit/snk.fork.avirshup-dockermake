@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 target:
   description: Build commands fail
   FROM: alpine

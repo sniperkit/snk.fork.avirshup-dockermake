@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 first:
   FROM: python:3.6-slim
   build: |

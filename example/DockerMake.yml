@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 base_image:
  description: >
   A basic definition for other images to build on. Specifically, it refers to a dockerfile that needs

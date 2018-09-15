@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 target_ignore_string:
   FROM: alpine
   build_directory: ./test_build

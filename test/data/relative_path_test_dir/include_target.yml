@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 target_include:
   FROM: debian:jessie
   build_directory: ../

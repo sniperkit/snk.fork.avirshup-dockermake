@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 version: '2'
 
 yml-anchors:  # defines some yml anchors so that we DRY

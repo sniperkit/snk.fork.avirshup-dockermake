@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 target:
   FROM: alpine
   ignorefile: test_build/custom_ignore_file.txt
